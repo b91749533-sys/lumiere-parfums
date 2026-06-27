@@ -37,9 +37,6 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## Admin Access
 
-- Email: `admin@lumiere.com`
-- Password: `admin123`
-
 ## Products
 
 | Fragrance | Price |
